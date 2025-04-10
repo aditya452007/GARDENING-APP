@@ -39,6 +39,11 @@ The **Gardening App** is a simple and interactive **command-line tool** built wi
 - ☁️ Add cloud syncing with user accounts and history tracking  
 
 ---
+## 🙌 Contributing
+<br>
+Contributions, feature suggestions, and pull requests are welcome!
+Feel free to fork the project and improve it.
+<br>
 
 ## 💻 How to Run
 
